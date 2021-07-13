@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>alpha2x 개인 블로그</title>
+  
+  
+  <link href="http://blog.archve.ga/atom.xml" rel="self"/>
+  
+  <link href="http://blog.archve.ga/"/>
+  <updated>2021-07-13T06:02:22.201Z</updated>
+  <id>http://blog.archve.ga/</id>
+  
+  <author>
+    <name>헥사곤윈</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>안녕하세요! 반가워요!</title>
+    <link href="http://blog.archve.ga/2021/07/13/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/"/>
+    <id>http://blog.archve.ga/2021/07/13/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/</id>
+    <published>2021-07-13T06:02:22.201Z</published>
+    <updated>2021-07-13T06:02:22.201Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;테스트 글입니다!&lt;/p&gt;
+&lt;h2 id=&quot;아무거나&quot;&gt;&lt;a href=&quot;#아무거나&quot; class=&quot;headerlink&quot; title=&quot;아무거나&quot;&gt;&lt;/a&gt;아무거나&lt;/h2&gt;&lt;h3 id=&quot;메인-콤퓨타&quot;&gt;&lt;a href=&quot;#메인-콤퓨타&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
