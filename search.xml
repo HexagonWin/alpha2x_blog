@@ -4,48 +4,6 @@
   
     
     <entry>
-      <title>새로운 테스트 게시글 2</title>
-      <link href="/2021/07/14/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%8C%EC%8B%9C%EA%B8%80-2/"/>
-      <url>/2021/07/14/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%8C%EC%8B%9C%EA%B8%80-2/</url>
-      
-        <content type="html"><![CDATA[<p>자유시간!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 뻘글 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 새로운 </tag>
-            
-            <tag> 테스트 </tag>
-            
-            <tag> 게시글 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hey world</title>
-      <link href="/2021/07/14/hello/"/>
-      <url>/2021/07/14/hello/</url>
-      
-        <content type="html"><![CDATA[<p>i mean hello hi world</p><h2 id="any"><a href="#any" class="headerlink" title="any"></a>any</h2><h3 id="i-mean-pc"><a href="#i-mean-pc" class="headerlink" title="i mean pc"></a>i mean pc</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">                         ▄▄▄▄▄▄       hexagonwin@T3600-Trisquel</span><br><span class="line">                      ▄█████████▄     OS: Trisquel 9.0 etiona</span><br><span class="line">      ▄▄▄▄▄▄         ████▀   ▀████    Kernel: x86_64 Linux 4.15.0-134-generic</span><br><span class="line">   ▄██████████▄     ████▀   ▄▄ ▀███   Uptime: 6h 30m</span><br><span class="line"> ▄███▀▀   ▀▀████     ███▄   ▄█   ███  Packages: 3463</span><br><span class="line">▄███   ▄▄▄   ████▄    ▀██████   ▄███  Shell: bash 4.4.20</span><br><span class="line">███   █▀▀██▄  █████▄     ▀▀   ▄████   Resolution: 3840x1080</span><br><span class="line">▀███      ███  ███████▄▄  ▄▄██████    DE: XFCE</span><br><span class="line"> ▀███▄   ▄███  █████████████████▀     WM: Xfwm4</span><br><span class="line">  ▀█████████    ██████████▀▀▀         WM Theme: Arc-Dark</span><br><span class="line">    ▀▀███▀▀     ██████▀▀              GTK Theme: Arc-Dark [GTK2]</span><br><span class="line">               ██████▀   ▄▄▄▄         Icon Theme: Ambiant-MATE</span><br><span class="line">              █████▀   ████████       Font: Sans 10</span><br><span class="line">              █████   ███▀  ▀███      CPU: Intel Xeon E5-1650 0 @ 12x 3.8GHz [47.0°C]</span><br><span class="line">               ████▄   ██▄▄▄  ███     GPU: NVE4</span><br><span class="line">                █████▄   ▀▀  ▄██      RAM: 2317MiB / 15961MiB</span><br><span class="line">                  ██████▄▄▄████      </span><br><span class="line">                     ▀▀█████▀▀       </span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>안녕하세요! 반가워요!</title>
       <link href="/2021/07/13/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/"/>
       <url>/2021/07/13/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/</url>

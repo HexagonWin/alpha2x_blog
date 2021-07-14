@@ -6,7 +6,7 @@
   <link href="http://blog.archve.ga/atom.xml" rel="self"/>
   
   <link href="http://blog.archve.ga/"/>
-  <updated>2021-07-14T10:16:52.974Z</updated>
+  <updated>2021-07-14T11:28:35.714Z</updated>
   <id>http://blog.archve.ga/</id>
   
   <author>
@@ -15,58 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>새로운 테스트 게시글 2</title>
-    <link href="http://blog.archve.ga/2021/07/14/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%8C%EC%8B%9C%EA%B8%80-2/"/>
-    <id>http://blog.archve.ga/2021/07/14/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%8C%EC%8B%9C%EA%B8%80-2/</id>
-    <published>2021-07-14T06:55:29.000Z</published>
-    <updated>2021-07-14T10:16:52.974Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;자유시간!&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="뻘글" scheme="http://blog.archve.ga/categories/%EB%BB%98%EA%B8%80/"/>
-    
-    
-    <category term="새로운" scheme="http://blog.archve.ga/tags/%EC%83%88%EB%A1%9C%EC%9A%B4/"/>
-    
-    <category term="테스트" scheme="http://blog.archve.ga/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
-    
-    <category term="게시글" scheme="http://blog.archve.ga/tags/%EA%B2%8C%EC%8B%9C%EA%B8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hey world</title>
-    <link href="http://blog.archve.ga/2021/07/14/hello/"/>
-    <id>http://blog.archve.ga/2021/07/14/hello/</id>
-    <published>2021-07-14T06:24:50.157Z</published>
-    <updated>2021-07-14T06:25:17.209Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;i mean hello hi world&lt;/p&gt;
-&lt;h2 id=&quot;any&quot;&gt;&lt;a href=&quot;#any&quot; class=&quot;headerlink&quot; title=&quot;any&quot;&gt;&lt;/a&gt;any&lt;/h2&gt;&lt;h3 id=&quot;i-mean-pc&quot;&gt;&lt;a href=&quot;#i-mean-pc&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>안녕하세요! 반가워요!</title>
