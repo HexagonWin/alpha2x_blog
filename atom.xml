@@ -6,7 +6,7 @@
   <link href="http://blog.archve.ga/atom.xml" rel="self"/>
   
   <link href="http://blog.archve.ga/"/>
-  <updated>2021-07-13T06:02:22.201Z</updated>
+  <updated>2021-07-14T10:16:52.974Z</updated>
   <id>http://blog.archve.ga/</id>
   
   <author>
@@ -17,11 +17,63 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>새로운 테스트 게시글 2</title>
+    <link href="http://blog.archve.ga/2021/07/14/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%8C%EC%8B%9C%EA%B8%80-2/"/>
+    <id>http://blog.archve.ga/2021/07/14/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%8C%EC%8B%9C%EA%B8%80-2/</id>
+    <published>2021-07-14T06:55:29.000Z</published>
+    <updated>2021-07-14T10:16:52.974Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;자유시간!&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="뻘글" scheme="http://blog.archve.ga/categories/%EB%BB%98%EA%B8%80/"/>
+    
+    
+    <category term="새로운" scheme="http://blog.archve.ga/tags/%EC%83%88%EB%A1%9C%EC%9A%B4/"/>
+    
+    <category term="테스트" scheme="http://blog.archve.ga/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
+    
+    <category term="게시글" scheme="http://blog.archve.ga/tags/%EA%B2%8C%EC%8B%9C%EA%B8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hey world</title>
+    <link href="http://blog.archve.ga/2021/07/14/hello/"/>
+    <id>http://blog.archve.ga/2021/07/14/hello/</id>
+    <published>2021-07-14T06:24:50.157Z</published>
+    <updated>2021-07-14T06:25:17.209Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;i mean hello hi world&lt;/p&gt;
+&lt;h2 id=&quot;any&quot;&gt;&lt;a href=&quot;#any&quot; class=&quot;headerlink&quot; title=&quot;any&quot;&gt;&lt;/a&gt;any&lt;/h2&gt;&lt;h3 id=&quot;i-mean-pc&quot;&gt;&lt;a href=&quot;#i-mean-pc&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>안녕하세요! 반가워요!</title>
     <link href="http://blog.archve.ga/2021/07/13/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/"/>
     <id>http://blog.archve.ga/2021/07/13/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94/</id>
     <published>2021-07-13T06:02:22.201Z</published>
-    <updated>2021-07-13T06:02:22.201Z</updated>
+    <updated>2021-07-14T11:28:35.714Z</updated>
     
     
       
@@ -35,6 +87,54 @@
     
     
     
+    
+    <category term="자유글" scheme="http://blog.archve.ga/tags/%EC%9E%90%EC%9C%A0%EA%B8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>이루다 AI 사용 후기</title>
+    <link href="http://blog.archve.ga/2021/01/10/%EC%9D%B4%EB%A3%A8%EB%8B%A4%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/"/>
+    <id>http://blog.archve.ga/2021/01/10/%EC%9D%B4%EB%A3%A8%EB%8B%A4%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/</id>
+    <published>2021-01-10T11:47:29.000Z</published>
+    <updated>2021-07-14T12:21:59.547Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;center&gt;&lt;del&gt;Wa! 섭종! 그럴만 합니다&lt;/del&gt;&lt;/center&gt;
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/luda_review/1.png&quot; alt=&quot;이루다1&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;“이루다” 는 과거의 심심이와 같은 AI</summary>
+        
+      
+    
+    
+    
+    
+    <category term="사용기" scheme="http://blog.archve.ga/tags/%EC%82%AC%EC%9A%A9%EA%B8%B0/"/>
+    
+    <category term="AI" scheme="http://blog.archve.ga/tags/AI/"/>
+    
+    <category term="Luda" scheme="http://blog.archve.ga/tags/Luda/"/>
+    
+    <category term="루다" scheme="http://blog.archve.ga/tags/%EB%A3%A8%EB%8B%A4/"/>
+    
+    <category term="리뷰-" scheme="http://blog.archve.ga/tags/%EB%A6%AC%EB%B7%B0/"/>
+    
+    <category term="문제점" scheme="http://blog.archve.ga/tags/%EB%AC%B8%EC%A0%9C%EC%A0%90/"/>
+    
+    <category term="약인공지능" scheme="http://blog.archve.ga/tags/%EC%95%BD%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/"/>
+    
+    <category term="이루다" scheme="http://blog.archve.ga/tags/%EC%9D%B4%EB%A3%A8%EB%8B%A4/"/>
+    
+    <category term="인공" scheme="http://blog.archve.ga/tags/%EC%9D%B8%EA%B3%B5/"/>
+    
+    <category term="지능" scheme="http://blog.archve.ga/tags/%EC%A7%80%EB%8A%A5/"/>
+    
+    <category term="후기" scheme="http://blog.archve.ga/tags/%ED%9B%84%EA%B8%B0/"/>
     
   </entry>
   

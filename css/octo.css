@@ -1,4 +1,25 @@
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+#local-search-result {
+  max-width:50%;
+}
+
+ul.search-result-list {
+  padding-left: 10px;
+}
+
+a.search-result-title {
+  font-weight: bold;
+}
+
+p.search-result {
+  color=#555;
+}
+
+em.search-keyword {
+  border-bottom: 1px dashed #4088b8;
+  font-weight: bold;
+}
+
+﻿html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
     margin: 0;
     padding: 0;
     border: 0;
@@ -87,7 +108,7 @@ a {
 }
 
 html {
-    background: #252525 url('/images/line-tile.png?1416136272') top left
+    background: #202f3d url('/images/line-tile.png?1416136272') top left
 }
 
 body > div {
@@ -176,7 +197,7 @@ h6, section h5, section section h4, section section section h3 {
 }
 
 p, article blockquote, ul, ol {
-    margin-bottom: 1.5em
+    margin-bottom: 0em
 }
 
 ul {
@@ -468,7 +489,7 @@ aside.sidebar {
     padding: 0 18px 1px;
     background-color: #f7f7f7;
     border-top: 1px solid #e0e0e0
-}
+}*
 
 .flex-content, article img, article video, article .flash-video, aside.sidebar img {
     max-width: 100%;
@@ -703,7 +724,7 @@ body.sidebar-footer .toggle-sidebar {
 }
 
 body > header {
-    background: #333
+    background: #610045
 }
 
 body > header h1 {
@@ -1083,7 +1104,7 @@ article .feature {
     font-style: italic;
     line-height: 1.3em
 }
-
+/*
 article img, article video, article .flash-video {
     -webkit-border-radius: 0.3em;
     -moz-border-radius: 0.3em;
@@ -1098,7 +1119,7 @@ article img, article video, article .flash-video {
     box-sizing: border-box;
     border: #fff 0.5em solid
 }
-
+*/
 article video, article .flash-video {
     margin: 0 auto 1.5em
 }
@@ -1925,7 +1946,7 @@ aside.sidebar section h1 {
 aside.sidebar section h1 + p {
     padding-top: .4em
 }
-
+/*
 aside.sidebar img {
     -webkit-border-radius: 0.3em;
     -moz-border-radius: 0.3em;
@@ -1940,7 +1961,7 @@ aside.sidebar img {
     box-sizing: border-box;
     border: #fff 0.3em solid
 }
-
+*/
 aside.sidebar ul {
     margin-bottom: 0.5em;
     margin-left: 0
