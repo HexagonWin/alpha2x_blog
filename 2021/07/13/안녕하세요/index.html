@@ -75,7 +75,9 @@
         <ul class="subscription" data-subscription="rss">
             <li><a href="/search/" title="사이트 자체 검색입니다!">검색</a></li>
         </ul>
-
+        <ul class="subscription" data-subscription="rss">
+            <li><span id="span">시계.. 스타트!</span>
+        </ul>
     <ul class="main-navigation">
         
             <li><a href="/">누리집</a></li>
@@ -89,6 +91,21 @@
             <li><a href="/etchome">타 홈</a></li>
         
     </ul>
+
+<script>
+var span = document.getElementById('span');
+
+function time() {
+  var d = new Date();
+  var s = d.getSeconds();
+  var m = d.getMinutes();
+  var h = d.getHours();
+  span.textContent = 
+    "현재 시각은 [" + ("0" + h).substr(-2) + ":" + ("0" + m).substr(-2) + ":" + ("0" + s).substr(-2) + "] 입니다.";
+}
+
+setInterval(time, 1000);
+</script>
 </nav>
 
 
