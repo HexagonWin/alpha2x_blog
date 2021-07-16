@@ -1,0 +1,144 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>alpha2x 개인 사이트 - 시계</title>
+<style type="text/css">
+
+@font-face { font-family: dgm; src: url('./neodgm.ttf'); }
+h1 { font-family: dgm; color: #000000}
+p { font-family: dgm; color: #000000}
+a:hover { font-family: dgm; color: #000000}
+a { font-family: dgm; color: #ffffff}
+
+a {
+    animation: change 1s step-end both;
+}
+
+@keyframes change {
+    from { color: black }
+    to   { color: }
+}
+
+
+</style> 
+</head>
+
+<body bgcolor="#ffffff">
+<a style='font-size: 1.5em;' id="exitbtn" href="../">언제나 이 화면에서 나가고 싶을 때 저를 눌러주세요!!</a>
+&nbsp;
+<a style='font-size: 1.5em;' id="fsbtn" onclick="openFullscreen(); closeFullscreen();" href="#">전체화면 하려면 절 누르시구요!!</a>
+&nbsp;
+<a style='font-size: 1.5em;' id="chth" href="./black.html">테마를 바꾸시려면 저를 누르시구요!</a>
+<p style='font-size: 2em;' id="nojs">JS가 활성화되어있지 않은것 같습니다. 이 시계는 클라이언트 사이드에서 구동되며 자바스크립트가 필요합니다.</p>
+
+<script>
+document.getElementById("nojs").innerHTML = ""
+setTimeout(() => {  document.getElementById("exitbtn").innerHTML = "[ 나가기 ! ]"; }, 1010);
+setTimeout(() => {  document.getElementById("fsbtn").innerHTML = "[ 전체화면 ! ]"; }, 1010);
+setTimeout(() => {  document.getElementById("chth").innerHTML = "[ 테마 변경 ! ]"; }, 1010);
+</script>
+
+<script>
+var elem = document.documentElement;
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+}
+
+function closeFullscreen() {
+  if (document.exitFullscreen) {
+    document.exitFullscreen();
+  } else if (document.webkitExitFullscreen) { /* Safari */
+    document.webkitExitFullscreen();
+  } else if (document.msExitFullscreen) { /* IE11 */
+    document.msExitFullscreen();
+  }
+}
+</script>
+
+<center><h1 id="fclock" style='font-size: 7em;'>민초 ㄱㄱ</h1></center>
+<center><h1 style='font-size: 2.3em;'><p id="dClock1">오늘이 며칠일까요?!</p><p id="hirand">우리의 시간은~ 항상 영원할거야..</p></h1></center>
+<!-- 20ㅇㅇ년 ㅇㅇ월 ㅇㅇ일 - 좋은 하루 보내세요! -->
+
+<script>
+var fc = document.getElementById('fclock');
+var dc1 = document.getElementById('dClock1');
+function times() {
+  var ds = new Date();
+  var ss = ds.getSeconds();
+  var ms = ds.getMinutes();
+  var hs = ds.getHours();
+  var year = ds.getFullYear();
+  var month = ("0" + (1 + ds.getMonth())).slice(-2);
+  var day = ("0" + ds.getDate()).slice(-2);
+  var milse = ds.getMilliseconds();
+  fc.textContent = 
+    ("0" + hs).substr(-2) + ":" + ("0" + ms).substr(-2) + ":" + ("0" + ss).substr(-2) + "." + milse;
+  dc1.textContent = "오늘은 " + year + "년 " + month + "월 " + day + "일 입니다.";
+
+}
+setInterval(times, 10);
+</script>
+
+<!--id milse for miliseconds -->
+<!--
+<script>
+function milse() {
+  var dts = new Date();
+  document.getElementById("milse").innerHTML = ":" + dts.getMilliseconds();
+}
+setInterval(milse,1);
+</script>
+-->
+<script>
+const hise = [
+  {
+    "hi": "좋은 하루 보내세요!"
+  },
+  {
+    "hi": "기분 좋은 하루 보내세요!"
+  },
+  {
+    "hi": "기쁜 하루 보내세요!!"
+  },
+  {
+    "hi": "안전 운행 하세요!"
+  },
+  { 
+    "hi": "재수 좋은 하루 되세요!"
+  },
+  {
+    "hi": "편안한 하루 보내세요!"
+  },
+  {
+    "hi": "행복한 하루 보내세요!"
+  },
+  {
+    "hi": "활기찬 하루 보내세요!"
+  },
+  {
+    "hi": "오늘도 안전한 하루 보내세요!"
+  },
+  {
+    "hi": "방역 수칙을 지키며 생활합시다!"
+  },
+  {
+    "hi": "보람찬 하루 보내세요!"
+  },
+  {
+    "hi": "^^; ~~"
+  },
+]
+
+function randomHi(){
+  let random = hise[Math.floor(Math.random() * hise.length)];
+  hirand.innerText = `${random.hi}`;
+}
+
+setInterval(randomHi, 2000);
+</script>
